@@ -62,7 +62,7 @@ struct ContentView: View {
                     //.padding(.leading, 75)
                     //.padding(.bottom, 125)
                     
-                    //.opacity(0.6)
+                    
                     
                     
                     
