@@ -1,5 +1,5 @@
 # Foodspo
-Foodspo: iOS application providing inspiration for meals <br>
+iOS application providing inspiration for meals <br>
 using Swift and XCode <br><br>
 - Displaying images in list and grid views
 - Detailed view of each food with variations on the meal, ingredients, and recipe suggestions
