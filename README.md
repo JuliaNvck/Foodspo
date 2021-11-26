@@ -9,4 +9,5 @@ iOS application providing inspiration for meals <br>
 
  <br><br>
  
-![ss](/Desktop/ss1.png "ss1")
+<img width="312" alt="ss1" src="https://user-images.githubusercontent.com/94994105/143510620-62a94e73-50ef-44f3-9c7d-3bddb5fcc2c7.png">
+
