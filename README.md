@@ -9,4 +9,4 @@ iOS application providing inspiration for meals <br>
 
  <br><br>
  
-![ss](Desktop/ss1.png "ss1")
+![ss](/Desktop/ss1.png "ss1")
