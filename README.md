@@ -6,3 +6,7 @@ iOS application providing inspiration for meals <br>
 - Search for meal, recipe, or ingredient
 - Favorite meals
 - View list/grid with only favorited foods
+
+ <br><br>
+ 
+![ss](Desktop/ss1.png "ss1")
